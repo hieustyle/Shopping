@@ -1,0 +1,41 @@
+:root {
+    --primary-gradient: linear-gradient(180deg, #127FFF 0%, #0067FF 100%);
+    --base-color-gray-800: #606060;
+    --dark: #1C1C1C;
+    --orange: #F38332;
+    --gray-300: #DEE2E7;
+    --white: #FFF;
+    --darkgreen: #55BDC3;
+    --lightpink: #FFE3E3;
+    --red: #EB001B;
+    --base-color-gray-8peach: linear-gradient(0deg, rgba(255, 232, 186, 0.40) 0%, rgba(255, 232, 186, 0.40) 100%);
+    --base-color--gray-blue: linear-gradient(0deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.30) 100%);
+    --ligh-blue: #D1E7FF;
+    --gray-200: #EFF2F4;
+    --gray-100: #F7FAFC;
+    --green: #00B517;
+    --blue: #237CFF;
+    --dard-blue: #005ADE;
+    --gray500: #8B96A5;
+    --gray600: #505050;
+    --gray-300: #DEE2E7;
+    --orange200: #FFF0DF;
+}
+
+* {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 1180px;
+    width: 100%;
+    margin-inline: auto;
+}
+
+.ScaleSmartPhone {
+    max-width: 360px;
+    width: 100%;
+    margin-inline: auto;
+}
